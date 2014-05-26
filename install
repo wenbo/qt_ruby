@@ -1,0 +1,3 @@
+$sudo apt-get install libqt4-gui libqt4-dev cmake
+$sudo apt-get install qt4-qmake
+$sudo gem install qtbindings
